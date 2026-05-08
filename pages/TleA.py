@@ -41,11 +41,11 @@ universites = {
     "Magistrat": [
         ("École Polytechnique", "https://polytechnique.cm/"),
         ("Université de Yaoundé I", "https://univ-yaounde1.cm"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
     ],
     "Avocat": [
         ("Université de Yaoundé II", "https://www.univ-yaounde2.org"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
     ],
     "Journaliste international": [
         ("École Polytechnique", "https://polytechnique.cm/"),
@@ -55,21 +55,21 @@ universites = {
     "Traducteur / Interprète": [
         ("École Polytechnique", "https://polytechnique.cm/"),
         ("Université de Yaoundé I", "https://univ-yaounde1.cm"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
         ("Université de Buea", "https://www.ubuea.cm"),
     ],
     "Professeur de lettres": [
         ("Université de Yaoundé I", "https://univ-yaounde1.cm"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
 
     ],
     "Analyste politique": [
         ("École Polytechnique", "https://polytechnique.cm/"),
         ("Université de Yaoundé I", "https://univ-yaounde1.cm"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
     ],
     "Assistant administratif": [
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
     ],
     "Banker": [
         ("École Polytechnique", "https://www.polytechnique.edu"),
