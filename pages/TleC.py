@@ -36,9 +36,9 @@ universites = {
     "Ingénieur en Génie Aéronautique": [
         ("École Polytechnique", "https://polytechnique.cm/"),
         ("Université de Yaoundé I", "https://univ-yaounde1.cm"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
         ("MIT", "https://www.mit.edu"),
-        ("Université de Douala", "https://www.univ-douala.cm")
+        ("Université de Douala", "https://www.univ-douala.cm"),
     ],
     "Ingénieur en Génie Civil": [
         ("École Polytechnique", "https://polytechnique.cm/"),
